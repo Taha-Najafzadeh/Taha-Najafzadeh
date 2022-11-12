@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
-- 📫 How to reach me My [email](mailto:Mohammadtaha.najafzadeh98@gmail.com) and My [telegram](https://t.me/tahanjfzdh)
+- 📫 How to reach me My [email](mailto:Mohammadtaha.najafzadeh98@gmail.com) and my [telegram](https://t.me/tahanjfzdh)
 
 - 📄 Know about my experiences [here](https://github.com/Taha-Najafzadeh/My-CV)
 
