@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
-- 📫 How to reach me **Mohammadtaha.najafzadeh98@gmail.com**
+- 📫 How to reach me [My email](Mohammadtaha.najafzadeh98@gmail.com) and [My telegram](https://t.me/tahanjfzdh)
 
-- 📄 Know about my experiences [https://github.com/Taha-Najafzadeh/My-CV](https://github.com/Taha-Najafzadeh/My-CV)
+- 📄 Know about my experiences [here](https://github.com/Taha-Najafzadeh/My-CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
