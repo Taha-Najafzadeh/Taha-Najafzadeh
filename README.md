@@ -9,7 +9,7 @@
 
 - 📫 How to reach me My [email](mailto:taha.mtnj@gmail.com) and my [telegram](https://t.me/tahanjfzdh)
 
-- 📄 Know about my experiences [here](https://github.com/Taha-Najafzadeh/My-CV/blob/main/Mohammadtaha-Najafzadeh-CV.pdf)
+- 📄 Know about my experiences [here](https://github.com/Taha-Najafzadeh/My-CV/blob/main/Mohammadtaha-Najafzadeh-Resume.pdf)
 
 
 
